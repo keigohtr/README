@@ -36,9 +36,10 @@
 We targeted VR/AR/MR domain for office use. My responsibilities include planning, investigating, specification formulating, prototyping, verifying and collaborating.
 - Got the president’s prize “The Best Challenge” in Oct 2016.
 - Collaborated with Kyoto Institute of Technology in Apr 2016.
- * AudiRun: https://youtu.be/nlfLTn051Pc
- * Glance: https://youtu.be/pzPoaskx_lI
- * LOOK UP: https://youtu.be/dOUJa9IygQs
+* 箇条書き1
+   * AudiRun: https://youtu.be/nlfLTn051Pc
+   * Glance: https://youtu.be/pzPoaskx_lI
+   * LOOK UP: https://youtu.be/dOUJa9IygQs
 
 #### Research Engineer of image compression
 (Dec 2014 - Dec 2015)
@@ -78,9 +79,9 @@ Available upon request.
 Apitore makes it real that everyone can use algorithm easily by providing the marketplace for algorithms where collects algorithms, organizes them, and provides them as WebAPI. My responsibilities include planning, investigating, specification formulating, site building, product (algorithm) developing, WebAPI providing, secure and scalable infrastructure constructing, maintenance, marketing, sales and event management. Developed by Java. See Apitore https://apitore.com/
 - Second prise at Startup Weekend Tokyo Tech in Nov 2015.
 - Developed Apitore
- * Allowed one million access per day for one instance according to the load test using Gatling. Since Apitore is microservice, it is easy to expand the scalability by adding an instance.
- * Achieved A+ rating of Qualys SSL Report.
- * And more.
+   * Allowed one million access per day for one instance according to the load test using Gatling. Since Apitore is microservice, it is easy to expand the scalability by adding an instance.
+   * Achieved A+ rating of Qualys SSL Report.
+   * And more.
 - Launched closed beta at Apr 2016, open beta at Sep 2016. Achieved positive growth about new user registration since open beta. Currently (25 Jun 2017) there are 150 users and 41 algorithms.
 - Apitore won 1st prize in the weekly ranking at Service Safari in Dec 2016.
 - Planned joint Hackathon where several companies participate. It will hold in Aug 2017.
