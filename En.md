@@ -36,7 +36,6 @@
 We targeted VR/AR/MR domain for office use. My responsibilities include planning, investigating, specification formulating, prototyping, verifying and collaborating.
 - Got the president’s prize “The Best Challenge” in Oct 2016.
 - Collaborated with Kyoto Institute of Technology in Apr 2016.
-* 箇条書き1
    * AudiRun: https://youtu.be/nlfLTn051Pc
    * Glance: https://youtu.be/pzPoaskx_lI
    * LOOK UP: https://youtu.be/dOUJa9IygQs
