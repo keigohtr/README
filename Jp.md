@@ -1,6 +1,6 @@
-**Last Updated at 1/Jul/2017**
+**Last Updated at 19/Jul/2017**
 
-## Keigo Hattori
+## 服部圭悟
 - [Twitter](https://twitter.com/keigohtr)
 - [Facebook](https://www.facebook.com/keigo.hattori.50)
 - [LinkedIn](https://www.linkedin.com/in/keigohattori/)
@@ -22,8 +22,7 @@
 ## 技能
 - 環境: Windows, Linux (Ubuntu)
 - プログラミング: Java, C/C++
-- フレームワーク: Spring (Boot, MVC, Framework, Cloud, Secury, Social, JDBC)
-- ツール: Maven, Eclipse, SVN/Git, Solr
+- フレームワーク: Spring (Boot, MVC, Framework, Cloud, Secury, Social, JDBC), Apache Solr, Maven, SVN/Git
 - その他: Ruby, Python, Perl, SQL, Javascript, HTML5, CSS, PHP, Matlab, Unity
 
 
@@ -50,9 +49,12 @@ VR/AR/MRでの新しい働き方を検討する。私の職務は、企画、調
 (2009/4 - 2014/12)
 
 特定用途向けの新規自然言語処理アルゴリズムの開発。
-- SNS解析スペシャリスト。形態素解析、極性判定などを担当。
-- 機械学習やトピックモデリングなど、最先端のアルゴリズムの調査と適用。
-- 日本語および英語の極性判定技術の改善。ベンチマークよりも高い性能を達成。
+- 医療テキスト解析。退院時サマリからの副作用表現抽出に関する研究、および医者向けの入力補完システムの開発などを担当。
+- SNS解析。崩れた表現の正規化に関する研究、SNS用の形態素解析に関する研究、および極性判定に関する研究などを担当。極性判定は日英ともにベンチマークよりも高い性能を達成。
+- FXPALで固有表現抽出技術の英語対応、および富士ゼロックスとFXPALとの共同研究の調整などを担当。
+- Apache Solrを使った技術文書横断検索システムTechnology Data and Delivery Management (TD2M) の構築。
+- SVM, HMM, CRF, LDAなど、機械学習やトピックモデリングなど最先端のアルゴリズムの利用経験。
+
 
 ### B-Bridge International, Inc. (Cupertino, California)
 (2007/10 - 2007/11)
@@ -65,6 +67,7 @@ VR/AR/MRでの新しい働き方を検討する。私の職務は、企画、調
 ### 東北大学 (宮城、日本)
 #### 修士 情報工学 (2007/4 - 2009/3)
 #### 学士 情報工学 (2003/4 - 2007/4)
+車載カメラを用いた運転支援。ステレオカメラと位相限定相関法を用いた車前方領域の3次元計測、路面と障害物の分離、および機械学習を用いた人検出を担当。
 
 
 ## レファレンス
@@ -75,16 +78,17 @@ VR/AR/MRでの新しい働き方を検討する。私の職務は、企画、調
 ### Apitore
 (2015/11 - 現在)
 
-Apitoreはアルゴリズムのマーケットプレイス。誰もが簡単にアルゴリズムを利用できるようにするために、アルゴリズムを集約し、整理し、WebAPIの形でアルゴリズムを提供している。私の職務は、企画、調査、使用策定、サイト構築、商品（アルゴリズム）開発、WebAPI提供、セキュアでスケーラブルなインフラの構築、メンテナンス、マーケティング、営業、イベント企画。Javaで実装。
+アルゴリズムのマーケットプレイス。誰もが簡単にアルゴリズムを利用できるようにするために、アルゴリズムを集約し、整理し、WebAPIの形でアルゴリズムを提供している。私の職務はすべて（企画、調査、使用策定、サイト構築、商品／アルゴリズム開発、WebAPI提供、セキュアでスケーラブルなインフラの構築、メンテナンス、マーケティング、営業、イベント企画）。Javaで実装。
 - Apitoreはこちら https://apitore.com/
 - 2015年10月末に行われたStartup Weekend Tokyo Techで準優勝。
 - Apitoreのサービスは、
-   - 一日100万アクセスに耐える。Gatlingを使った左記内容の負荷テストをクリア。Apitoreはマイクロサービス化してあるので、インスタンスを追加するだけで簡単にスケールする。
-   - Qualys SSL ReportでA+を獲得。
-   - その他いろいろ。
-- 2016年4月にクローズドベータで公開、2016年9月にオープンベータで公開。オープンベータ開始以降、新規登録ユーザー数の伸びはプラス成長。2017年6月25日時点で150名のユーザーが登録し、Apitoreで41本のアルゴリズムを提供中。
+   - 一日100万アクセスに耐える。Netflix OSSを使ったマイクロサービス化を実現し、インスタンスの追加で容易にスケール。Gatlingを使った負荷テストをクリア。
+   - Qualys SSL ReportでA+を獲得。Let's EncryptとNginxを採用。
+   - その他。Spring、Oauth2.0、Swagger（OpenAPI Specification）2.0、PayPal連携、FacebookとOpenID Connect、Apache Solrなどを採用。
+- 2016年4月にクローズドベータで公開、2016年9月にオープンベータで公開。オープンベータ開始以降、新規登録ユーザー数の伸びはプラス成長。2017年7月18日時点で175名のユーザーが登録し、Apitoreで45本のアルゴリズムを提供中。
 - Service Safariにて新規登録サービスの週間ランキングで1位を獲得（2016/12）。
-- 複数社合同ハッカソンを企画。2017年8月に富士通で開催予定。
+- OneJAPANハッカソンの企画立案。2017年8月4日と8月25日に富士通で第1回OneJAPANハッカソンを開催予定。
+
 
 ### Donate and break
 (2016/11)

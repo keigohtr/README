@@ -1,4 +1,4 @@
-**Last Updated at 1/Jul/2017**
+**Last Updated at 19/Jul/2017**
 
 ## Keigo Hattori
 - [Twitter](https://twitter.com/keigohtr)
@@ -22,8 +22,7 @@
 ## Technical Proficiencies
 - Environment: Windows, Linux (Ubuntu)
 - Programming: Java, C/C++
-- Framework: Spring (Boot, MVC, Framework, Cloud, Secury, Social, JDBC)
-- Tool: Maven, Eclipse, SVN/Git, Solr
+- Framework: Spring (Boot, MVC, Framework, Cloud, Secury, Social, JDBC), Apache Solr, Maven, SVN/Git
 - Sub skills: Ruby, Python, Perl, SQL, Javascript, HTML5, CSS, PHP, Matlab, Unity
 
 
@@ -35,24 +34,26 @@
 
 We targeted VR/AR/MR domain for office use. My responsibilities include planning, investigating, specification formulating, prototyping, verifying and collaborating.
 - Got the president’s prize “The Best Challenge” in Oct 2016.
-- Collaborated with Kyoto Institute of Technology in Apr 2016.
-   * AudiRun: https://youtu.be/nlfLTn051Pc
-   * Glance: https://youtu.be/pzPoaskx_lI
-   * LOOK UP: https://youtu.be/dOUJa9IygQs
+- Collaborated with Kyoto Institute of Technology in 2016.
+   - AudiRun: https://youtu.be/nlfLTn051Pc
+   - Glance: https://youtu.be/pzPoaskx_lI
+   - LOOK UP: https://youtu.be/dOUJa9IygQs
 
 #### Research Engineer of image compression
 (Dec 2014 - Dec 2015)
 
 We develop new algorithms of image compression for multifunction printers and specific applications. Finished this theme in 2015.
-- Developed a new compression algorithm that satisfies the required specification for next multifunction printer.
 
 #### Machine Learning Research Engineer of natural language processing
 (Apr 2009 - Dec 2014)
 
 We develop new algorithms of natural language processing for specific applications.
-- Social media text analysis specialist. Developed morphological analyzer, sentiment analyzer and more.
-- Have knowledge of state of the art algorithms such as machine learning, topic modeling and more.
-- Improved Japanese and English sentiment analyzer. Achieved higher performance than benchmark (JP: Metadata Incorporated, EN: AlchemyAPI).
+- Medical text analysis. Research on the side effect detection from daily reports. Developed input completion system for doctors.
+- Social media text analysis. Research on the Out-Of-Vocabulary normalization for SNS text. Developed the morphological analyzer for tweets. Research on the sentiment analysis. Achieved higher performance than benchmark.
+- Localized a named entity detector to English. Adjustment for research collaboration between FujiXerox and FXPAL.
+- Developed Technology Data and Delivery Management (TD2M) system using Apache Solr.
+- Experienced a state-of-the-art algorithm; Support Vector Machine, Hidden Markov Model, Conditional Random Fields, Latent Dirichlet Allocation and so on.
+
 
 ### B-Bridge International, Inc. (Cupertino, California)
 (Oct 2007 - Nov 2007)
@@ -65,6 +66,7 @@ Improved in-house tools for book sales system. Developed EC site as contract dev
 ### Tohoku University (Miyagi, Japan)**
 #### Master of Science in Computer Science (Apr 2007 - Mar 2009)
 #### Bachelor of Science in Computer Science (Apr 2003 - Mar 2007)
+Driving assistance system using on-board camera. 3D reconstruction using stereo cameras and phase-only correlation. Road/Object separation. Pedestrian detection.
 
 
 ## Reference
@@ -75,21 +77,22 @@ Available upon request.
 ### Apitore
 (Nov 2015 - Present)
 
-Apitore makes it real that everyone can use algorithm easily by providing the marketplace for algorithms where collects algorithms, organizes them, and provides them as WebAPI. My responsibilities include planning, investigating, specification formulating, site building, product (algorithm) developing, WebAPI providing, secure and scalable infrastructure constructing, maintenance, marketing, sales and event management. Developed by Java. See Apitore https://apitore.com/
-- Second prise at Startup Weekend Tokyo Tech in Nov 2015.
+Apitore (https://apitore.com/) makes it real that everyone can use algorithm easily by providing the marketplace for algorithms where collects algorithms, organizes them, and provides them as WebAPI. My responsibility is everything (planning, investigating, specification formulating, site building, product/algorithm developing, WebAPI providing, secure and scalable infrastructure constructing, maintenance, marketing, sales and event management). Developed by Java.
+- 2nd prise at Startup Weekend Tokyo Tech in Nov 2015.
 - Developed Apitore
-   * Allowed one million access per day for one instance according to the load test using Gatling. Since Apitore is microservice, it is easy to expand the scalability by adding an instance.
-   * Achieved A+ rating of Qualys SSL Report.
-   * And more.
-- Launched closed beta at Apr 2016, open beta at Sep 2016. Achieved positive growth about new user registration since open beta. Currently (25 Jun 2017) there are 150 users and 41 algorithms.
-- Apitore won 1st prize in the weekly ranking at Service Safari in Dec 2016.
-- Planned joint Hackathon where several companies participate. It will hold in Aug 2017.
+   - Allowed one million access per day for one instance according to the load test using Gatling. Since Apitore uses Netflix OSS, all WebAPI in Apitore is microservice. It is easy to expand the scalability by adding an instance. Run on Google Cloud Platform.
+   - Achieved A+ rating of Qualys SSL Report. Adopted Let’s Encrypt and Nginx.
+   - Adopted Spring boot, Oauth2.0, Swagger (OpenAPI Specification) 2.0, PayPal, Facebook OpenID connect, Apache Solr and so on.
+- Launched closed beta at Apr 2016, open beta at Sep 2016. Achieved positive growth about new user registration since open beta. Currently (18 Jul 2017) there are 175 users and 45 algorithms.
+- 1st prize in the weekly ranking at Service Safari in Dec 2016.
+- Planned OneJAPAN Hackathon. It will be held on 4th Aug and 25th Aug 2017 at Fujitsu.
+
 
 ### Donate and break
 (Jun 2016)
 
 This service accelerates donation activity. When donating by this service, the service send a mail, "Since I donated 10 dollars to a charity, I will have 10 minutes break from now. Thank you.", to the designated (e.g. your boss’s) address. In Japan, it is difficult to take a nap during work hours, but if you use this service you may be able to take a nap snugly during work hours. Developed by Java.
-- Won third prize at PayPal tech meetup vol.2.
+- 3rd prize at PayPal tech meetup vol.2.
 
 ### Question Answering
 (Feb 2012)
